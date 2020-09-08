@@ -1,0 +1,21 @@
+{
+  "name": "phone-comparisons-promises-scaffold",
+  "version": "1.0.0",
+  "description": "Make sure that this is done with Promises.",
+  "main": "index.js",
+  "scripts": { "test": "jest" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ash-Eileen/phone-comparison-promises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ash-Eileen/phone-comparison-promises/issues"
+  },
+  "homepage": "https://github.com/Ash-Eileen/phone-comparison-promises#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
